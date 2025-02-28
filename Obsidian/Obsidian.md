@@ -4,4 +4,5 @@ Caso alguém queira acessar os arquivos desta pasta de forma mais organizada, re
   alt="Imagem da logo da Obsidian" width="250" height="250" border="10" /></a>
 
 [**Download aqui**](https://obsidian.md/)
-[**tutorial de como usar o ".md"**](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)
+
+[**Tutorial de como usar o ".md"**](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)
