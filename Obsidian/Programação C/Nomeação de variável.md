@@ -1,0 +1,4 @@
+ - devem começar com _ ou uma letra;
+ - podem conter letras, números e _ mas não podem ter espaços;
+ - Case sensitive;
+ - Não podem conter palavras reservadas da linguagem.
