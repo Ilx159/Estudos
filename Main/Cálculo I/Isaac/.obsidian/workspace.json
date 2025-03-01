@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conjuntos numéricos.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Conjuntos numéricos"
+              "title": "README"
             }
           }
         ]
@@ -169,13 +169,13 @@
   },
   "active": "2b6423299caadb9b",
   "lastOpenFiles": [
+    "Conjuntos numéricos.md",
     "Continuidade.md",
     "Derivada.md",
     "README.md",
     "Polinômios.md",
     "Pasted image 20250228211836.png",
     "Aplicações.md",
-    "Conjuntos numéricos.md",
     "Pasted image 20250228211858.png",
     "Bem.md",
     "Excalidraw/Drawing 2025-02-28 21.10.45.excalidraw.md",
