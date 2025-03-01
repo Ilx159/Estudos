@@ -13,3 +13,7 @@ Segue os conteúdos para ser explorados e estudados.a
 | [Exponenciais](Exponenciais.md)                 |                       |                                 |                             |
 | [Logaritmos](Logaritmos.md)                     |                       |                                 |                             |
 
+Para escrever em forma matemática utilize "`$$ formulas aqui $$`", para pegar os símbolos matemáticos segue os sites(cuidado com o tipo de escrita de simbolo que você utiliza, pois alguns não funcionam no github):
+
+[Wikipédia](https://pt.wikipedia.org/wiki/Lista_de_s%C3%ADmbolos_matem%C3%A1ticos)
+[Lista de símbolos](https://wp.ufpel.edu.br/fernandosimoes/files/2012/06/Simbolos-matematicos.pdf)

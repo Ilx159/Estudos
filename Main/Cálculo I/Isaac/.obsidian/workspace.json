@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conjuntos numéricos.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conjuntos numéricos"
+              "title": "README"
             }
           }
         ]
@@ -169,8 +169,8 @@
   },
   "active": "2b6423299caadb9b",
   "lastOpenFiles": [
-    "README.md",
     "Conjuntos numéricos.md",
+    "README.md",
     "Continuidade.md",
     "Derivada.md",
     "Polinômios.md",
