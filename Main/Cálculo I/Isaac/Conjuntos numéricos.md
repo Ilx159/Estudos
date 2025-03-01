@@ -13,5 +13,4 @@ Z = { ... , -3 , -2 , -1 , 0 , 1 , 2 , 3 , ... }
 
 Representamos:
 
-
-![[Pasted image 20250228211858.png]]
+![](Pasted%20image%2020250228211858.png)
