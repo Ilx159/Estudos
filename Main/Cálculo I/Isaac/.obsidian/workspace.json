@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Conjuntos numéricos.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Conjuntos numéricos"
             }
           }
         ]
@@ -169,9 +169,12 @@
   },
   "active": "2b6423299caadb9b",
   "lastOpenFiles": [
+    "Continuidade.md",
+    "Derivada.md",
+    "README.md",
+    "Polinômios.md",
     "Pasted image 20250228211836.png",
     "Aplicações.md",
-    "README.md",
     "Conjuntos numéricos.md",
     "Pasted image 20250228211858.png",
     "Bem.md",
@@ -180,15 +183,12 @@
     "Sem título.canvas",
     "Trigonometria.md",
     "Integral.md",
-    "Derivada.md",
-    "Continuidade.md",
     "Limites.md",
     "Funções.md",
     "Logaritmos.md",
     "Exponenciais.md",
     "Inequações.md",
     "Equações.md",
-    "Polinômios.md",
     "crie um link.md"
   ]
 }
