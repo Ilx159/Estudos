@@ -27,7 +27,10 @@ $$IN = \lbrace 0,1,2,3,\cdots\rbrace $$
 $$IN* = \lbrace1,2,3,\cdots\rbrace$$
 
 A equação: 
-$$x+4$$não tem solução em IN.
+
+$$x+4$$
+
+não tem solução em IN.
 ____
 
 #### Conjunto de números inteiros
@@ -42,7 +45,6 @@ $$IN \subseteq Z$$
 A equação 
 
 $$2x = 1$$
-
 não tem solução em Z
 ____
 #### Conjunto de números racionais
@@ -55,7 +57,6 @@ $$Z\subseteq Q$$
 A equação
 
 $$x^2=2$$
-
 
 não tem solução em Q
 ____
