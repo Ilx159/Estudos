@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Conjuntos numéricos"
             }
+          },
+          {
+            "id": "3b693f4c0236a768",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-02 11.42.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-02 11.42.30.excalidraw"
+            }
           }
         ]
       }
@@ -169,24 +181,28 @@
   },
   "active": "2b6423299caadb9b",
   "lastOpenFiles": [
-    "Pasted image 20250301221345.png",
+    "Pasted image 20250302114951.png",
+    "Excalidraw/Drawing 2025-03-02 11.42.30.excalidraw.md",
     "Conjuntos numéricos.md",
+    "Pasted image 20250302114524.png",
+    "Pasted image 20250302114452.png",
+    "Aplicações.md",
+    "README.md",
+    "Polinômios.md",
+    "Limites.md",
+    "Pasted image 20250301221345.png",
     "Excalidraw/Drawing 2025-03-01 18.48.59.excalidraw.md",
     "Excalidraw/Drawing 2025-02-28 21.10.45.excalidraw.md",
     "Pasted image 20250301221148.png",
     "Pasted image 20250228211858.png",
-    "README.md",
     "Continuidade.md",
     "Derivada.md",
-    "Polinômios.md",
     "Pasted image 20250228211836.png",
-    "Aplicações.md",
     "Bem.md",
     "Excalidraw",
     "Sem título.canvas",
     "Trigonometria.md",
     "Integral.md",
-    "Limites.md",
     "Funções.md",
     "Logaritmos.md",
     "Exponenciais.md",

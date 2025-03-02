@@ -18,3 +18,29 @@ Para escrever em forma matemática utilize "`$$ fórmulas aqui $$`", para pegar 
 [Wikipédia](https://pt.wikipedia.org/wiki/Lista_de_s%C3%ADmbolos_matem%C3%A1ticos)
 
 [Lista de símbolos](https://wp.ufpel.edu.br/fernandosimoes/files/2012/06/Simbolos-matematicos.pdf)
+
+____
+
+Expressões usadas:
+
+$$
+1.\supseteq
+$$
+$$2.\subseteq$$
+$$3.:$$
+$$4.\in$$
+$$5.\land$$
+$$6.\lor$$
+$$7.\cup$$
+$$8.\cap$$
+$$9.\mid$$
+
+1. "Contém"
+2. "Está contido"
+3. "Tal que"
+4. "pertence"
+5. "e"
+6. "ou"
+7. "União"
+8. "Intersecção"
+9. "tal que"

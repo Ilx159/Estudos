@@ -1,26 +1,3 @@
-____
-Expressões usadas:
-
-$$
-1.\supseteq
-$$
-$$2.\subseteq$$
-$$3.:$$
-$$4.\in$$
-$$5.\land$$
-$$6.\lor$$
-$$7.\cup$$
-$$8.\cap$$
-1. "Contem"
-2. "Está contido"
-3. "Tal que"
-4. "pertence"
-5. "e"
-6. "ou"
-7. "União"
-8. "Intersecção"
-
-___
 #### Conjuntos de números naturais
 
 $$IN = \lbrace 0,1,2,3,\cdots\rbrace $$
@@ -72,3 +49,22 @@ ____
 $$\mathbb{R}=Q\cup I$$
 
 ![](Pasted%20image%2020250301221345.png)
+____
+## Intervalos
+
+São subconjuntos infinitos, que podem ser limitados ou não, dos nº reais
+
+Sejam:
+$$\lbrace a,b\in \mathbb{R} \mid a < b \rbrace$$
+segue exemplos?
+$$[a,b]=\lbrace x\in \mathbb{R} \mid a \le x\le b \rbrace$$
+![](Pasted%20image%2020250302114452.png)
+
+
+$$]a,b[=\lbrace x\in \mathbb{R} \mid a < x< b \rbrace$$
+![](Pasted%20image%2020250302114524.png)
+$$[a, + \infty[=\lbrace x\in \mathbb{R} \mid x > a \rbrace$$
+
+![](Pasted%20image%2020250302114951.png)
+
+$$]-\infty, +\infty[=\mathbb{R}$$
