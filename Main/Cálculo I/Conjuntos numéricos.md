@@ -26,7 +26,8 @@ ___
 $$IN = \lbrace 0,1,2,3,\cdots\rbrace $$
 $$IN* = \lbrace1,2,3,\cdots\rbrace$$
 
-A equação: $$x+4$$não tem solução em IN.
+A equação: 
+$$x+4$$não tem solução em IN.
 ____
 
 #### Conjunto de números inteiros
