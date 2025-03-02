@@ -40,7 +40,9 @@ Representamos:
 Note que: 
 $$IN \subseteq Z$$
 A equação 
+
 $$2x = 1$$
+
 não tem solução em Z
 ____
 #### Conjunto de números racionais
@@ -51,7 +53,10 @@ $$Z\subseteq Q$$
 * Todos os números decimais finitos pertencem a Q
 * Todos os decimais infinitos e periódicos pertencem a Q
 A equação
+
 $$x^2=2$$
+
+
 não tem solução em Q
 ____
 #### Conjunto dos números irracionais
@@ -64,4 +69,5 @@ $$\surd(primos) \in I$$
 ____
 #### Conjunto de números reais
 $$\mathbb{R}=Q\cup I$$
+
 ![](Pasted%20image%2020250301221345.png)
