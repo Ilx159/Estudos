@@ -24,3 +24,35 @@ Para saber mais acesse:
 #### 4. Tamanho dos tipos
 
 [Atividade "Tamanho dos tipos"](Var_Types_Size.c)
+
+#### 5. Overflow de Inteiros
+
+[Atividade "Overflow de inteiros"](overflow.c)
+
+#### 6. Signed vc Unsigned
+
+[Atividade "Signed vs Unsigned"](sig_unsig.c)
+
+#### 7. Nomes Válidos e Inválidos
+
+[Atividade "Nomes Válidos e Inválidos"](Nomes.c)
+
+#### 8. Variáveis Locais e Globais
+
+[Atividade "Variáveis Locais e Globais"](Var_globalxlocal.c)
+
+#### 9. Modificador static
+
+[Atividade "Modificador static"](static.c)
+
+#### 10. Constantes
+
+[Atividade "Constantes"](PI.c)
+
+#### 11. Static em Funções
+
+[Atividade "Static em Funções"](static_func.c)
+
+#### 12. Operações com Diferentes Bases
+
+[Atividade "Operações com Diferentes Bases"](soma_sub.c)
