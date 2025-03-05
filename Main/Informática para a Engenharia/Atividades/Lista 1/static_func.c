@@ -21,10 +21,10 @@ int main()
 
     while(Raio != 0){ //Enquanto Raio não for 0, o código fica em loop
     
-    scanf("%f", &Raio);
+        scanf("%f", &Raio);
     
     
-    printf("\n%.3f\n", pi(Raio));
+        printf("\n%.3f\n", pi(Raio));
     }
-return 0;
+    return 0;
 }

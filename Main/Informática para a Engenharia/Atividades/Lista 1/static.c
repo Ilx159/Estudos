@@ -1,8 +1,6 @@
 #include <stdio.h>
 
-int func1()
-{
-
+int func1(){
     static int series = 0;
     series++;
     return series;
