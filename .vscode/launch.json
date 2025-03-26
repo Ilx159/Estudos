@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/ilx/Documents/Estudos/Main/Informática para a Engenharia/Atividades/Lista2",
-      "program": "/home/ilx/Documents/Estudos/Main/Informática para a Engenharia/Atividades/Lista2/build/Debug/outDebug",
+      "cwd": "/home/ilx/Documents/Estudos/Main/Informática para a Engenharia/Atividades/Lista 3",
+      "program": "/home/ilx/Documents/Estudos/Main/Informática para a Engenharia/Atividades/Lista 3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
