@@ -1,32 +1,12 @@
 #include <stdio.h>
+#include <string.h>
 
 int main(void){
 
-    unsigned int a = 1;
+    char str[] ={65,68};
 
-    scanf("%d", &a);
-
-    switch(a){
-        case 1: 
-            printf("Mes %u", a);
-            break;
-        case 2: 
-            printf("Mes %u", a);
-            break;
-        case 3: 
-            printf("Mes %u", a);
-            break;
-        case 4: 
-            printf("Mes %u", a);
-            break;
-        case 5: 
-            printf("Mes %u", a);
-            break;
-
-        default: 
-            printf("Mes invalido");
-            break;
-    }
-
+    
+    
+    
     return 0;
 }
